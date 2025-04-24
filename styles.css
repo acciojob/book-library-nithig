@@ -11,7 +11,7 @@ body {
 	
 	
 }
-.book{
+.book, .bo{
 	
 	background-color:#f8f8f8;
 	margin-top:20px;
@@ -35,8 +35,9 @@ img{
 }
 
 .price{
-	background-color:#2ecc71;
+	background-color:rgb(46, 204, 113);
 	text-align:center;
+	padding:10px;
 }
 
         
