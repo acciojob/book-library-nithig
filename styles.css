@@ -7,10 +7,12 @@ body {
 .book-library{
 	background-color:#ffffff;
 	text-align:center;
-	box-shadow:1,1,1 black;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	
 	
 }
 .book{
+	
 	background-color:#f8f8f8;
 	margin-top:20px;
 	padding:20px;
@@ -34,6 +36,7 @@ img{
 
 .price{
 	background-color:#2ecc71;
+	text-align:center;
 }
 
         
